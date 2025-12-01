@@ -1,5 +1,7 @@
 # ♾️ Infinite Storage Glitch (ISG) - Edición GPU 🚀
 
+![Interfaz del Programa](ejemplo.jpg)
+
 ¡Bienvenido a **Infinite Storage Glitch**! Este proyecto es una herramienta loca y genial que te permite **guardar archivos de cualquier tipo dentro de videos** 📹. Sí, leíste bien. Convertimos tus archivos en "ruido" visual (píxeles blancos y negros) que puedes subir a YouTube (o cualquier sitio de video) y obtener **almacenamiento ilimitado y gratuito**. 🤯
 
 ## 🧠 ¿Cómo funciona la Magia? (Lógica Detallada)
